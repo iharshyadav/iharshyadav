@@ -1,11 +1,14 @@
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iharshyadav&label=Profile%20views&color=0e75b6&style=flat" alt="iharshyadav" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iharshyadav&label=Profile%20views&color=0e75b6&style=flat" alt="iharshyadav" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iharshyadav" alt="iharshyadav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/harshya97538997" target="blank"><img src="https://img.shields.io/twitter/follow/harshya97538997?logo=twitter&style=for-the-badge" alt="harshya97538997" /></a> </p>
+
+<img align="right" alt="Coding" width="500" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY">
 
 - 🔭 I’m currently working on [HOTEL-MANAGEMENT-SYSTEM](https://github.com/iharshyadav/HOTEL-MANAGEMENT-SYSTEM)
 
@@ -18,6 +21,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o1rtSOSpTPXRnE327NqXuFHxHqN3Nhef/view?usp=drive_link](https://drive.google.com/file/d/1o1rtSOSpTPXRnE327NqXuFHxHqN3Nhef/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm Codoholic..😉**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
