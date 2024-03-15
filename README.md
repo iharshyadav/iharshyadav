@@ -58,7 +58,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iharshyadav&show_icons=true&locale=en&layout=compact" alt="iharshyadav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iharshyadav&show_icons=true&locale=en" alt="iharshyadav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iharshyadav&" alt="iharshyadav" /></p>
 
