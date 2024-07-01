@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hy945196@gmail.com**
 
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1lbHBm_7-qRiPBjdAbyZUwA754-AWn_Wx/view?usp=drivesdk)
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1NvZDxS_iraOH9GwFd_MfFLPR1NVTsQHF/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Codoholic..😉**
 
