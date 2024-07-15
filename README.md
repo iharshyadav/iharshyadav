@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshya97538997" target="blank"><img src="https://img.shields.io/twitter/follow/harshya97538997?logo=twitter&style=for-the-badge" alt="harshya97538997" /></a> </p>
 
-- 🔭 I’m currently working on [Think-Write](https://github.com/iharshyadav/Think-Write)
+- 🔭 I’m currently working on [Flow Fusion](https://github.com/iharshyadav/FlowFusion)
 
 - 🌱 I’m currently learning **NextJs , DSA**
 
