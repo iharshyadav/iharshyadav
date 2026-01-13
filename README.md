@@ -1,61 +1,177 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
+# 👋 Hey, I'm Harsh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iharshyadav&label=Profile%20views&color=0e75b6&style=flat" alt="iharshyadav" /> </p>
+### Full Stack Developer | Open Source Enthusiast | Problem Solver
 
-<p align="left"> <a href="https://twitter.com/harshya97538997" target="blank"><img src="https://img.shields.io/twitter/follow/harshya97538997?logo=twitter&style=for-the-badge" alt="harshya97538997" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Building+scalable+web+solutions;Crafting+seamless+user+experiences;Learning+%26+growing+every+day" alt="Typing SVG" />
 
-- 🔭 I’m currently working on [Flow Fusion](https://github.com/iharshyadav/FlowFusion)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshh.tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshyadav.coder@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshyadavv)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/harshya97538997)
 
-- 🌱 I’m currently learning **NextJs , DSA**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-- 💬 Ask me about **NextJs , ReactJS , NodeJs , ExpressJs , MongoDB , PRISMA**
+</div>
 
-- 📫 How to reach me **hy945196@gmail.com**
+---
 
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1NvZDxS_iraOH9GwFd_MfFLPR1NVTsQHF/view?usp=sharing)
+## 🚀 About Me
 
-- ⚡ Fun fact **I think I'm Codoholic..😉**
+```typescript
+const harsh = {
+    location: "India 🇮🇳",
+    currentFocus: "Open Source Contributions",
+    learning: ["System Design", "DSA"],
+    askMeAbout: ["Next.js", "Web Dev", "React", "Node.js", "TypeScript"]
+};
+```
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/albatrossdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="albatrossdesigner" height="30" width="40" /></a>
-<a href="https://dev.to/iharshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iharshyadav" height="30" width="40" /></a>
-<a href="https://twitter.com/harshya97538997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshya97538997" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshyadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshyadavv" height="30" width="40" /></a>
-<a href="https://codesandbox.com/iharshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="iharshyadav" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh_y__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_y__" height="30" width="40" /></a>
-<a href="https://dribbble.com/iharshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="iharshyadav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/albatrossdsgin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="albatrossdsgin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hy945196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hy945196" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codingforme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codingforme" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hy945196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hy945196" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@hy945196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hy945196" height="30" width="40" /></a>
-</p>
+### 💼 What I'm Up To
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+- 🔨 Contributing to **Open Source** projects and building scalable web solutions
+- 📚 Deep diving into **System Design** and **Advanced Next.js patterns**
+- 🎯 Solving complex problems on **LeetCode** and mastering **Data Structures & Algorithms**
+- 💡 Exploring **AI/ML integration** in modern web applications
+- 🌱 Continuously learning and staying updated with latest tech trends
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iharshyadav&show_icons=true&locale=en&layout=compact" alt="iharshyadav" /></p>
+<br clear="right"/>
 
+---
 
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Wizardry
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend Mastery
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Tools & More
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iharshyadav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iharshyadav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/api?user=iharshyadav&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iharshyadav&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+## 🎯 Professional Highlights
+
+<div align="center">
+
+| 💼 **Experience** | 🔢 **Stats** | 🌟 **Achievements** |
+|:-----------------:|:------------:|:-------------------:|
+| Ex @earthemission @sthumbh | **62** Repositories | **Pull Shark** x2 |
+| [@Big-Data-Center-of-Excellence](https://github.com/Big-Data-Center-of-Excellence) | **15** Followers | **Quickdraw** Achievement |
+| MERN Stack Developer | **3** Stars | **YOLO** Achievement |
+
+</div>
+
+### 🚀 Notable Contributions
+
+- **Vero** - AI-powered development platform with Next.js 15, React 19, and E2B cloud sandboxes ⭐ 3 stars
+- **Synthex** - Versatile code editor with live editing and multi-language support (10+ languages)
+- **Human-in-Loop Orchestration** - Event-driven workflow system with Kafka, Prometheus & Grafana ⭐ 2 stars
+- **NGISE** - IEEE conference platform for Information Systems Engineering
+- **SmartCertify** - Blockchain-based certificate verification system
+
+### 📈 Open Source Impact
+
+```text
+🔄 Total Contributions: 500+
+📦 Public Repositories: 62
+⭐ Total Stars Received: 7+
+🔀 Pull Requests: Multiple successful merges
+```
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshhyadavv/)
+
+<a href="https://leetcode.com/u/harshhyadavv/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/harshhyadavv?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</a>
+
+</div>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/iharshyadav/Synthex">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iharshyadav&repo=Synthex&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/iharshyadav/Vero">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iharshyadav&repo=Vero&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshyadavv)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/harshya97538997)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshyadavv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshhyadavv/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshyadav.coder@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=iharshyadav&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
