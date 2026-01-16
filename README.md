@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Harsh
 
-### Full Stack Developer | Open Source Enthusiast | Problem Solver
+### Full Stack Developer | Open Source Contributor
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Building+scalable+web+solutions;Crafting+seamless+user+experiences;Learning+%26+growing+every+day" alt="Typing SVG" />
 
@@ -46,7 +46,7 @@ const harsh = {
 
 <div align="center">
 
-### Frontend Wizardry
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,7 +54,7 @@ const harsh = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend Mastery
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
